@@ -1,0 +1,366 @@
+\begin{thebibliography}{56}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Adams et~al.(2017)Adams, Emerson, Kirby, Neville, Peterson, Shipman,
+  Chepushtanova, Hanson, Motta, and
+  Ziegelmeier]{tda:adams2017persistenceImages}
+Adams, H., Emerson, T., Kirby, M., Neville, R., Peterson, C., Shipman, P.,
+  Chepushtanova, S., Hanson, E., Motta, F., and Ziegelmeier, L.
+\newblock Persistence images: a stable vector representation of persistent
+  homology.
+\newblock \emph{Journal of Machine Learning Research}, 18\penalty0
+  (8):\penalty0 1--35, 2017.
+
+\bibitem[Boucheron et~al.(2013)Boucheron, Lugosi, and
+  Massart]{boucheron2013concentration}
+Boucheron, S., Lugosi, G., and Massart, P.
+\newblock \emph{Concentration inequalities: A nonasymptotic theory of
+  independence}.
+\newblock Oxford University Press, 2013.
+
+\bibitem[Bourne et~al.(2018)Bourne, Schmitzer, and Wirth]{ot:bourne2018semi}
+Bourne, D.~P., Schmitzer, B., and Wirth, B.
+\newblock Semi-discrete unbalanced optimal transport and quantization.
+\newblock \emph{arXiv preprint arXiv:1808.01962}, 2018.
+
+\bibitem[Bubenik(2015)]{tda:bubenik2015statistical}
+Bubenik, P.
+\newblock Statistical topological data analysis using persistence landscapes.
+\newblock \emph{The Journal of Machine Learning Research}, 16\penalty0
+  (1):\penalty0 77--102, 2015.
+
+\bibitem[Bubenik \& Wagner(2019)Bubenik and Wagner]{tda:bubenik2019embeddings}
+Bubenik, P. and Wagner, A.
+\newblock Embeddings of persistence diagrams into {H}ilbert spaces.
+\newblock \emph{arXiv preprint arXiv:1905.05604}, 2019.
+
+\bibitem[Buchet et~al.(2018)Buchet, Hiraoka, and
+  Obayashi]{tda:buchet2018persistent}
+Buchet, M., Hiraoka, Y., and Obayashi, I.
+\newblock Persistent homology and materials informatics.
+\newblock In \emph{Nanoinformatics}, pp.\  75--95. Springer, Singapore, 2018.
+
+\bibitem[C{\'a}mara(2017)]{tda:camara2017topological}
+C{\'a}mara, P.~G.
+\newblock Topological methods for genomics: present and future directions.
+\newblock \emph{Current opinion in systems biology}, 1:\penalty0 95--101, 2017.
+
+\bibitem[Carri\`ere et~al.(2015)Carri\`ere, Oudot, and
+  Ovsjanikov]{tda:carriere2015stableSignature3DShape}
+Carri\`ere, M., Oudot, S.~Y., and Ovsjanikov, M.
+\newblock Stable topological signatures for points on 3d shapes.
+\newblock In \emph{Computer Graphics Forum}, volume~34, pp.\  1--12. Wiley
+  Online Library, 2015.
+
+\bibitem[Carri{\`e}re et~al.(2017)Carri{\`e}re, Cuturi, and
+  Oudot]{tda:carriere2017sliced}
+Carri{\`e}re, M., Cuturi, M., and Oudot, S.
+\newblock Sliced {W}asserstein kernel for persistence diagrams.
+\newblock In \emph{34th International Conference on Machine Learning}, 2017.
+
+\bibitem[Carriere et~al.(2019)Carriere, Chazal, Ike, Lacombe, Royer, and
+  Umeda]{tda:carriere2019perslay}
+Carriere, M., Chazal, F., Ike, Y., Lacombe, T., Royer, M., and Umeda, Y.
+\newblock Perslay: A neural network layer for persistence diagrams and new
+  graph topological signatures.
+\newblock \emph{stat}, 1050:\penalty0 17, 2019.
+
+\bibitem[Chazal et~al.(2016)Chazal, De~Silva, Glisse, and
+  Oudot]{tda:chazal2016structure}
+Chazal, F., De~Silva, V., Glisse, M., and Oudot, S.
+\newblock \emph{The structure and stability of persistence modules}.
+\newblock Springer, 2016.
+
+\bibitem[Chazal et~al.(2020)Chazal, Levrard, and Royer]{chazal2020optimal}
+Chazal, F., Levrard, C., and Royer, M.
+\newblock Optimal quantization of the mean measure and application to
+  clustering of measures.
+\newblock \emph{arXiv preprint arXiv:2002.01216}, 2020.
+
+\bibitem[Cohen-Steiner et~al.(2007)Cohen-Steiner, Edelsbrunner, and
+  Harer]{tda:cohen2007stability}
+Cohen-Steiner, D., Edelsbrunner, H., and Harer, J.
+\newblock Stability of persistence diagrams.
+\newblock \emph{Discrete \& Computational Geometry}, 37\penalty0 (1):\penalty0
+  103--120, 2007.
+
+\bibitem[Cohen-Steiner et~al.(2010)Cohen-Steiner, Edelsbrunner, Harer, and
+  Mileyko]{tda:cohen2010lipschitzStablePersistence}
+Cohen-Steiner, D., Edelsbrunner, H., Harer, J., and Mileyko, Y.
+\newblock Lipschitz functions have {$L_p$}-stable persistence.
+\newblock \emph{Foundations of computational mathematics}, 10\penalty0
+  (2):\penalty0 127--139, 2010.
+
+\bibitem[Cuturi \& Doucet(2014)Cuturi and Doucet]{ot:cuturi2014fast}
+Cuturi, M. and Doucet, A.
+\newblock Fast computation of {W}asserstein barycenters.
+\newblock In \emph{International Conference on Machine Learning}, pp.\
+  685--693, 2014.
+
+\bibitem[Divol(2021)]{divol2021short}
+Divol, V.
+\newblock A short proof on the rate of convergence of the empirical measure for
+  the wasserstein distance.
+\newblock \emph{arXiv preprint arXiv:2101.08126}, 2021.
+
+\bibitem[Divol \& Chazal(2019)Divol and Chazal]{tda:divol2018density}
+Divol, V. and Chazal, F.
+\newblock The density of expected persistence diagrams and its kernel based
+  estimation.
+\newblock \emph{Journal of Computational Geometry}, 10\penalty0 (2):\penalty0
+  127--153, 2019.
+
+\bibitem[Divol \& Lacombe(2020)Divol and Lacombe]{tda:divol2019understanding}
+Divol, V. and Lacombe, T.
+\newblock Understanding the topology and the geometry of the space of
+  persistence diagrams via optimal partial transport.
+\newblock \emph{Journal of Applied and Computational Topology}, pp.\  1--53,
+  2020.
+
+\bibitem[Divol \& Polonik(2019)Divol and Polonik]{tda:divolpolonik}
+Divol, V. and Polonik, W.
+\newblock On the choice of weight functions for linear representations of
+  persistence diagrams.
+\newblock \emph{Journal of Applied and Computational Topology}, 3\penalty0
+  (3):\penalty0 249--283, 2019.
+
+\bibitem[Dudley(1969)]{dudley1969speed}
+Dudley, R.~M.
+\newblock The speed of mean {G}livenko-{C}antelli convergence.
+\newblock \emph{The Annals of Mathematical Statistics}, 40\penalty0
+  (1):\penalty0 40--50, 1969.
+
+\bibitem[Edelsbrunner \& Harer(2010)Edelsbrunner and
+  Harer]{tda:edelsbrunner2010computational}
+Edelsbrunner, H. and Harer, J.
+\newblock \emph{Computational topology: an introduction}.
+\newblock American Mathematical Soc., 2010.
+
+\bibitem[Edelsbrunner et~al.(2000)Edelsbrunner, Letscher, and
+  Zomorodian]{tda:edelsbrunner2000topologicalSeminal}
+Edelsbrunner, H., Letscher, D., and Zomorodian, A.
+\newblock Topological persistence and simplification.
+\newblock In \emph{Proceedings 41st annual symposium on foundations of computer
+  science}, pp.\  454--463. IEEE, 2000.
+
+\bibitem[Figalli \& Gigli(2010)Figalli and
+  Gigli]{ot:figalli2010newTransportationDistance}
+Figalli, A. and Gigli, N.
+\newblock A new transportation distance between non-negative measures, with
+  applications to gradients flows with dirichlet boundary conditions.
+\newblock \emph{Journal de math{\'e}matiques pures et appliqu{\'e}es},
+  94\penalty0 (2):\penalty0 107--130, 2010.
+
+\bibitem[Fischer(2010)]{fischer2010quantization}
+Fischer, A.
+\newblock Quantization and clustering with {B}regman divergences.
+\newblock \emph{Journal of Multivariate Analysis}, 101\penalty0 (9):\penalty0
+  2207--2221, 2010.
+
+\bibitem[Flamary et~al.(2021)Flamary, Courty, Gramfort, Alaya, Boisbunon,
+  Chambon, Chapel, Corenflos, Fatras, Fournier, et~al.]{flamary2021pot}
+Flamary, R., Courty, N., Gramfort, A., Alaya, M.~Z., Boisbunon, A., Chambon,
+  S., Chapel, L., Corenflos, A., Fatras, K., Fournier, N., et~al.
+\newblock Pot: Python optimal transport.
+\newblock \emph{Journal of Machine Learning Research}, 22\penalty0
+  (78):\penalty0 1--8, 2021.
+
+\bibitem[Fournier \& Guillin(2015)Fournier and Guillin]{fournier2015rate}
+Fournier, N. and Guillin, A.
+\newblock On the rate of convergence in {W}asserstein distance of the empirical
+  measure.
+\newblock \emph{Probability Theory and Related Fields}, 162\penalty0
+  (3-4):\penalty0 707--738, 2015.
+
+\bibitem[Gonin(1989)]{gonin1989nonlinear}
+Gonin, R.
+\newblock \emph{Nonlinear Lp-norm estimation}, volume 100.
+\newblock CRC Press, 1989.
+
+\bibitem[Graf \& Luschgy(2007)Graf and Luschgy]{graf2007foundations}
+Graf, S. and Luschgy, H.
+\newblock \emph{Foundations of quantization for probability distributions}.
+\newblock Springer, 2007.
+
+\bibitem[Hardle et~al.(1995)Hardle, Park, and Tsybakov]{hardle1995estimation}
+Hardle, W., Park, B., and Tsybakov, A.
+\newblock Estimation of non-sharp support boundaries.
+\newblock \emph{Journal of Multivariate Analysis}, 55\penalty0 (2):\penalty0
+  205--218, 1995.
+
+\bibitem[H{\"a}rdle et~al.(2012)H{\"a}rdle, Kerkyacharian, Picard, and
+  Tsybakov]{hardle2012wavelets}
+H{\"a}rdle, W., Kerkyacharian, G., Picard, D., and Tsybakov, A.
+\newblock \emph{Wavelets, approximation, and statistical applications}, volume
+  129.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem[Kloeckner(2020)]{kloeckner2020empirical}
+Kloeckner, B.~R.
+\newblock Empirical measures: regularity is a counter-curse to dimensionality.
+\newblock \emph{ESAIM: Probability and Statistics}, 24:\penalty0 408--434,
+  2020.
+
+\bibitem[Lacombe(2020)]{tda:lacombe:tel-02979251}
+Lacombe, T.
+\newblock \emph{{Statistics for topological descriptors using optimal
+  transport}}.
+\newblock Theses, {Institut Polytechnique de Paris}, September 2020.
+\newblock URL \url{https://hal.archives-ouvertes.fr/tel-02979251}.
+
+\bibitem[Lacombe et~al.(2018)Lacombe, Cuturi, and Oudot]{tda:lacombe2018large}
+Lacombe, T., Cuturi, M., and Oudot, S.
+\newblock Large scale computation of means and clusters for persistence
+  diagrams using optimal transport.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2018.
+
+\bibitem[Lei et~al.(2020)]{lei2020convergence}
+Lei, J. et~al.
+\newblock Convergence and concentration of empirical measures under
+  {W}asserstein distance in unbounded functional spaces.
+\newblock \emph{Bernoulli}, 26\penalty0 (1):\penalty0 767--798, 2020.
+
+\bibitem[Levrard(2018)]{levrard2018whenKmeansWork}
+Levrard, C.
+\newblock Quantization/clustering: when and why does k-means work?
+\newblock \emph{Journal de la Soci{\'e}t{\'e} Fran{\c{c}}aise de Statistique},
+  159\penalty0 (1):\penalty0 1--26, 2018.
+
+\bibitem[Levrard et~al.(2015)]{levrard2015nonasymptotic}
+Levrard, C. et~al.
+\newblock Nonasymptotic bounds for vector quantization in {H}ilbert spaces.
+\newblock \emph{The Annals of Statistics}, 43\penalty0 (2):\penalty0 592--619,
+  2015.
+
+\bibitem[Li et~al.(2014)Li, Ovsjanikov, and Chazal]{tda:li2014persistence}
+Li, C., Ovsjanikov, M., and Chazal, F.
+\newblock Persistence-based structural recognition.
+\newblock In \emph{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pp.\  1995--2002, 2014.
+
+\bibitem[Lloyd(1982)]{lloyd1982least}
+Lloyd, S.
+\newblock Least squares quantization in {PCM}.
+\newblock \emph{IEEE transactions on information theory}, 28\penalty0
+  (2):\penalty0 129--137, 1982.
+
+\bibitem[Maria et~al.(2014)Maria, Boissonnat, Glisse, and Yvinec]{gudhi}
+Maria, C., Boissonnat, J.-D., Glisse, M., and Yvinec, M.
+\newblock The gudhi library: simplicial complexes and persistent homology.
+\newblock In \emph{International Congress on Mathematical Software}, pp.\
+  167--174. Springer, 2014.
+
+\bibitem[Megiddo(1983)]{megiddo1983linear}
+Megiddo, N.
+\newblock Linear-time algorithms for linear programming in {$\R^3$} and related
+  problems.
+\newblock \emph{SIAM journal on computing}, 12\penalty0 (4):\penalty0 759--776,
+  1983.
+
+\bibitem[Reininghaus et~al.(2015)Reininghaus, Huber, Bauer, and
+  Kwitt]{tda:reininghaus2015stable}
+Reininghaus, J., Huber, S., Bauer, U., and Kwitt, R.
+\newblock A stable multi-scale kernel for topological machine learning.
+\newblock In \emph{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pp.\  4741--4748, 2015.
+
+\bibitem[Saadatfar et~al.(2017)Saadatfar, Takeuchi, Robins, Francois, and
+  Hiraoka]{tda:saadatfar2017pore}
+Saadatfar, M., Takeuchi, H., Robins, V., Francois, N., and Hiraoka, Y.
+\newblock Pore configuration landscape of granular crystallization.
+\newblock \emph{Nature communications}, 8\penalty0 (1):\penalty0 1--11, 2017.
+
+\bibitem[Santambrogio(2015)]{otam}
+Santambrogio, F.
+\newblock Optimal transport for applied mathematicians.
+\newblock \emph{Birk{\"a}user, NY}, 2015.
+
+\bibitem[Singh \& P{\'o}czos(2018)Singh and P{\'o}czos]{ot:singh2018minimax}
+Singh, S. and P{\'o}czos, B.
+\newblock Minimax distribution estimation in {W}asserstein distance.
+\newblock \emph{arXiv preprint arXiv:1802.08855}, 2018.
+
+\bibitem[Tang \& Monteleoni(2016)Tang and Monteleoni]{tang2016lloyd}
+Tang, C. and Monteleoni, C.
+\newblock On {L}loyd’s algorithm: new theoretical insights for clustering in
+  practice.
+\newblock In \emph{Artificial Intelligence and Statistics}, pp.\  1280--1289.
+  PMLR, 2016.
+
+\bibitem[Trillos \& Slep{\v{c}}ev(2015)Trillos and
+  Slep{\v{c}}ev]{trillos2015rate}
+Trillos, N.~G. and Slep{\v{c}}ev, D.
+\newblock On the rate of convergence of empirical measures in
+  {$\infty$}-transportation distance.
+\newblock \emph{Canadian Journal of Mathematics}, 67\penalty0 (6):\penalty0
+  1358--1383, 2015.
+
+\bibitem[Tsybakov(2008)]{tsybakov}
+Tsybakov, A.~B.
+\newblock \emph{Introduction to Nonparametric Estimation}.
+\newblock Springer Publishing Company, Incorporated, 1st edition, 2008.
+\newblock ISBN 0387790519.
+
+\bibitem[Turner et~al.(2014)Turner, Mileyko, Mukherjee, and
+  Harer]{tda:turner2014frechet}
+Turner, K., Mileyko, Y., Mukherjee, S., and Harer, J.
+\newblock Fr{\'e}chet means for distributions of persistence diagrams.
+\newblock \emph{Discrete \& Computational Geometry}, 52\penalty0 (1):\penalty0
+  44--70, 2014.
+
+\bibitem[Vidal et~al.(2019)Vidal, Budin, and Tierny]{tda:vidal2019progressive}
+Vidal, J., Budin, J., and Tierny, J.
+\newblock Progressive {W}asserstein barycenters of persistence diagrams.
+\newblock \emph{IEEE transactions on visualization and computer graphics},
+  26\penalty0 (1):\penalty0 151--161, 2019.
+
+\bibitem[Villani(2008)]{ot:villani2008optimal}
+Villani, C.
+\newblock \emph{Optimal transport: old and new}, volume 338.
+\newblock Springer Science \& Business Media, 2008.
+
+\bibitem[Wagner(2019)]{tda:wagner2019nonembeddability}
+Wagner, A.
+\newblock Nonembeddability of persistence diagrams with $ p> 2$ {W}asserstein
+  metric.
+\newblock \emph{arXiv preprint arXiv:1910.13935}, 2019.
+
+\bibitem[Weed \& Berthet(2019)Weed and Berthet]{ot:weed2019estimation}
+Weed, J. and Berthet, Q.
+\newblock Estimation of smooth densities in {W}asserstein distance.
+\newblock In \emph{Conference on Learning Theory}, pp.\  3118--3119. PMLR,
+  2019.
+
+\bibitem[Zhao \& Wang(2019)Zhao and Wang]{tda:zhao2019learning}
+Zhao, Q. and Wang, Y.
+\newblock Learning metrics for persistence-based summaries and applications for
+  graph classification.
+\newblock \emph{Advances in neural information processing systems (NeurIPS)},
+  2019.
+
+\bibitem[Zieli{\'n}ski et~al.(2018)Zieli{\'n}ski, Lipi{\'n}ski, Juda,
+  Zeppelzauer, and D{\l}otko]{tda:zielinski2018persistenceBow}
+Zieli{\'n}ski, B., Lipi{\'n}ski, M., Juda, M., Zeppelzauer, M., and D{\l}otko,
+  P.
+\newblock Persistence bag-of-words for topological data analysis.
+\newblock \emph{arXiv preprint arXiv:1812.09245}, 2018.
+
+\bibitem[Zieli{\'n}ski et~al.(2020)Zieli{\'n}ski, Lipi{\'n}ski, Juda,
+  Zeppelzauer, and D{\l}otko]{tda:zielinski2020persistenceCodebook}
+Zieli{\'n}ski, B., Lipi{\'n}ski, M., Juda, M., Zeppelzauer, M., and D{\l}otko,
+  P.
+\newblock Persistence codebooks for topological data analysis.
+\newblock \emph{Artificial Intelligence Review}, pp.\  1--41, 2020.
+
+\bibitem[Zomorodian \& Carlsson(2005)Zomorodian and
+  Carlsson]{tda:zomorodian2005computing}
+Zomorodian, A. and Carlsson, G.
+\newblock Computing persistent homology.
+\newblock \emph{Discrete \& Computational Geometry}, 33\penalty0 (2):\penalty0
+  249--274, 2005.
+
+\end{thebibliography}

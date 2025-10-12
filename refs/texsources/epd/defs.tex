@@ -1,0 +1,158 @@
+%%% Maths
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\K}{\mathbb{K}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\V}{\mathbb{V}}
+\newcommand{\X}{\mathbb{X}}
+\newcommand{\I}{\mathbb{I}}
+\newcommand{\W}{\mathbb{W}}
+\newcommand{\M}{\mathbb{M}}
+\newcommand{\WW}{\mathcal{W}}
+\newcommand{\XX}{\mathcal{X}}
+\newcommand{\DD}{\mathcal{D}}
+\newcommand{\PP}{\mathcal{P}}
+\newcommand{\QQ}{\mathcal{Q}}
+\renewcommand{\P}{\mathbb{P}}
+\newcommand{\EE}{\mathcal{E}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\KL}{\mathrm{KL}}
+\renewcommand{\P}{P}%\mathbb{P}}
+\newcommand{\HH}{\mathcal{H}}
+\newcommand{\KK}{\mathcal{K}}
+\newcommand{\MM}{\mathcal{M}}
+\newcommand{\CC}{\mathcal{C}}
+\newcommand{\FF}{\mathcal{F}}
+\newcommand{\GG}{\mathcal{G}}
+\newcommand{\OO}{\mathcal{O}}
+\renewcommand{\SS}{\mathcal{S}}
+\newcommand{\BB}{\mathcal{B}}
+\renewcommand{\AA}{\mathcal{A}}
+\newcommand{\bX}{\mathbf{X}}
+
+\newcommand{\dd}{\mathrm{d}}
+\newcommand{\dgm}{\mathrm{Dgm}}
+\newcommand{\esp}{\mathbb{E}}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\Image}{\mathrm{Im}}
+\newcommand{\prob}{\mathbb{P}}
+\newcommand{\perm}{\mathfrak{S}}
+\newcommand{\Pers}{\mathrm{Pers}}  % persistence pour les diagrammes (ie distance au diagramme vide)
+\newcommand{\pers}{\mathrm{pers}}  % persistence pour les points (ie distance à la diagonale)
+\newcommand{\diam}{\mathrm{diam}}
+\newcommand{\upperdiag}{\Omega} %{\R^2_>}
+\newcommand{\groundspace}{\overline{\upperdiag}} %{\R_>^2 \cup \{\Delta \} }
+\newcommand{\withdiag}{\R^2_\geqslant}
+\newcommand{\thediag}{{\partial \Omega}} %{\mathbf{\Delta}}
+\newcommand{\vspan}{\mathrm{span}}
+\newcommand{\mtot}{m_{\mathrm{tot}}}
+\newcommand{\supp}{\mathrm{spt}}
+\newcommand{\mean}{\mathrm{mean}}
+\newcommand{\diag}{\mathrm{diag}}
+\newcommand{\dist}{\mathrm{dist}}
+\newcommand{\round}{\mathcal{R}}
+\newcommand{\linf}{\ell^\infty}
+\newcommand{\dB}{d_{\infty}^B}
+\newcommand{\defeq}{\vcentcolon=}
+\newcommand{\eqdef}{=\vcentcolon}
+\newcommand{\projop}{\mathbf{R}}
+\newcommand{\projdiag}{\mathrm{proj}_\thediag}
+\newcommand{\Lip}{\mathrm{Lip}}
+\newcommand{\pix}{\pi^{(1)}}  % first marginal of a transport plan \pi
+\newcommand{\piy}{\pi^{(2)}}
+\newcommand{\Adm}{\mathrm{Adm}}
+\newcommand{\Opt}{\mathrm{Opt}}
+\newcommand{\opt}{\mathrm{opt}}
+\newcommand{\Var}{\mathrm{Var}}
+\newcommand{\emptydgm}{0}  %{\emptyset}
+\newcommand{\cvvague}{\xrightarrow{v}}
+\newcommand{\cvweak}{\xrightarrow{w}}
+\newcommand{\ie}{i.e.\ }
+\newcommand{\eg}{e.g.\ }
+\newcommand{\id}{\mathrm{id}}
+\renewcommand{\epsilon}{\varepsilon}
+%\renewcommand{\leq}{\leqslant}
+%\renewcommand{\geq}{\geqslant}
+\newcommand{\reshape}{\overrightarrow}
+\newcommand{\bu}{\mathbf{u}}
+\newcommand{\bv}{\mathbf{v}}
+\newcommand{\bc}{\mathbf{c}}
+\newcommand{\bC}{\mathbf{C}}
+\newcommand{\ba}{\mathbf{a}}
+\newcommand{\bb}{\mathbf{b}}
+\newcommand{\bk}{\mathbf{k}}
+\newcommand{\bmm}{\mathbf{m}}
+\newcommand{\ones}{\mathbf{1}}
+\newcommand{\bx}{\mathbf{x}}
+\newcommand{\EPD}{\mathbf{E}(P)} %\mathrm{PD}
+\renewcommand{\epsilon}{\varepsilon}
+\newcommand{\iid}{\emph{i.i.d.}~}
+\newcommand{\Res}{\mathrm{Res}}
+\newcommand{\OT}{\mathrm{OT}}
+
+\newcommand{\Dp}{\mathrm{OT}_p}
+\newcommand{\PD}{\DD}
+\newcommand{\Dinf}{\mathrm{OT}_\infty}
+\newcommand{\Cp}{\mathcal{C}^0_{b,p}}
+
+\newcommand{\pmin}{\mathrm{Pers}_\mathrm{min}}
+
+\newcommand{\mmin}{m_\mathrm{min}}
+\newcommand{\mmax}{m_\mathrm{max}}
+\newcommand{\Dmin}{D_\mathrm{min}}
+
+%\newcommand{\repeatresult}[2]{
+%	\vspace{.2cm}
+%	\noindent
+%	\textbf{#1}
+%	\emph{#2}
+%	\vspace{.2cm}
+%}
+\newcommand{\p}[1]{\left(#1 \right)}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\minimize}{minimize}
+\newcommand{\dotp}[1]{\langle #1 \rangle}
+
+%%% Environment
+%\newtheorem{definition}{Definition}[section]
+%\newtheorem{theorem}{Theorem}[section]
+%\theoremstyle{plain}
+%\newtheorem{prop}[theorem]{Proposition} %[section]
+%\newtheorem{rem}{Remark} %[section]
+%\newtheorem{lemma}{Lemma}[section]
+%\newtheorem{corollary}{Corollary}[section]
+%\newtheorem{remark}{Remark}[section]
+%\newtheorem*{theorem*}{Theorem}
+
+% For theorem repetition in the introduction, without labelling issue.
+%\makeatletter
+%\newtheorem*{rep@theorem}{\rep@title}
+%\newcommand{\newreptheorem}[2]{%
+%\newenvironment{rep#1}[1]{%
+% \def\rep@title{#2 \ref{##1}}%
+% \begin{rep@theorem}}%
+% {\end{rep@theorem}}}
+%\makeatother
+%
+%\newreptheorem{theorem}{Theorem}
+%\newreptheorem{lemma}{Lemma}
+%\newreptheorem{corollary}{Corollary}
+%\newreptheorem{prop}{Proposition}
+
+\newcommand{\Cech}{\v Cech}
+
+%%% Environment
+\newtheorem{definition}{Definition}%[section]
+\newtheorem{theorem}{Theorem}%[section]
+\theoremstyle{plain}
+\newtheorem{prop}[theorem]{Proposition} %[section]
+\newtheorem{lemma}{Lemma}%[section]
+\newtheorem{corollary}{Corollary}%[section]
+\newtheorem{remark}{Remark}%[section]
+\newtheorem*{theorem*}{Theorem}
+
+%%% Blabla
+\newcommand{\theo}[1]{\textcolor{blue}{Theo: #1}}
+\newcommand{\vincent}[1]{\textcolor{red}{Vincent: #1}}
