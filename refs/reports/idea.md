@@ -14,4 +14,6 @@ so there is 3 things to do :
 - trying to get better assumptions that can lead to convergence and see what are the practical ones, REMARK 1 in the paper
 - this is a minimax theorem : find the worst case and see empirical minimax bounds for in practice problems (network 2d random graphs that expand, time series also lol)
 
+"The problem of finding the graph genus is NP-hard'  wikipedia 'graph embedding"
+
 this paper is realted in general : https://geometrica.saclay.inria.fr/team/Fred.Chazal/papers/cd-depd-18/p26-chazal.pdf
