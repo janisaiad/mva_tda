@@ -10,7 +10,7 @@
 POC : vincent divol, theo lacombe, mathieu carriere
 
 so there is 3 things to do :
-- implement a TDA workflow that utilizes the algorithm to solve a particular problem, where a sequence of persistence diagram is observed online, especially case p = infty 'central in tda' : finance (stooq.com) & temporal graph
+- implement a TDA workflow that utilizes the algorithm to solve a particular problem, where a sequence of persistence diagram is observed online, especially case p = infty 'central in tda' : finance (stooq.com) & temporal graph or https://giotto-ai.github.io/gtda-docs/0.5.1/notebooks/gravitational_waves_detection.html
 - trying to get better assumptions that can lead to convergence and see what are the practical ones, REMARK 1 in the paper
 - this is a minimax theorem : find the worst case and see empirical minimax bounds for in practice problems (network 2d random graphs that expand, time series also lol)
 
