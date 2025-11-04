@@ -1,7 +1,10 @@
 # Project Name
 
-## Description
-A clear and concise description of what this project does and what it is for.
+## Quickstart
+
+To run the setup script `launch.sh`, you may need to make it executable first with `chmod +x launch.sh`, then execute it using `./launch.sh`.
+
+
 
 ## Table of Contents
 - [Installation](#installation)
